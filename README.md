@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! I am a beginner java developer. 👋
 
-<!--
-**Shugarkin/Shugarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Дисциплинированный, ответственный, умеющий работать в команде добряк,
+который хочет сделать мир чуть лучше 🙏
+___
 
-Here are some ideas to get you started:
+### Стек 📖: 
+- Java
+- Spring
+- Docker
+- JUnit
+- Mockito
+- Postgres
+- Hibernate
+- RestAPI
+- Maven
+- Postman
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Текущие проекты 🔥:
+[auto_dobro](https://github.com/Shugarkin/auto_dobro.git) - приложение для уведомления владельцев авто о неисправности
+
+
